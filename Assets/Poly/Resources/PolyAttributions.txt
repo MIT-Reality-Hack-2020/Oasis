@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Campfire
+Author: Christian Amiel Miranda
+URL: https://poly.google.com/view/f3ReaC4yNfb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Our Rainforest.
+Author: Rosie Summers
+URL: https://poly.google.com/view/5E2mcgzkddS
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
